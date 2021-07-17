@@ -6,21 +6,21 @@ I enjoy creating web apps, doing cool things with Python, and automating things.
 
 Personal Projects
 ---
-[**Southpaw**](https://southpawdfs.com/)
+[**Southpaw**](https://southpawdfs.com/) <sub><sup>Updated in 2021</sup></sub>
 
 A dashboard to help optimize bets on UFC fights. Takes backdoors into the Fanduel and Sportsbook APIs to gather real-time odds of fighters, and uses linear/genetic optimization to generate the most optimal lineups possible.
 
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
 ---
-[**MLB The Show Market Assistant**](https://d3d82qzrjyyaco.cloudfront.net/)
+[**MLB The Show Market Assistant**](https://d3d82qzrjyyaco.cloudfront.net/) <sub><sup>Updated in 2020</sup></sub>
 
 A datatable displaying real-time MLB the Show Market prices to help maximize profits.
 
 <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
 ---
-[**Stock Shark**](https://stockshark-frontend.herokuapp.com/main)
+[**Stock Shark**](https://stockshark-frontend.herokuapp.com/main) <sub><sup>Updated in 2019</sup></sub>
 
 A search engine to search for stocks and predict their future movement using historical stock data combined with sentiment analysis data scraped from relevant social media posts.
 
