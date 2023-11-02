@@ -9,6 +9,6 @@
 
 </div>
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcanfield&layout=compact&hide_border=true&langs_count=10&theme=dark">
+<!--   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcanfield&layout=compact&hide_border=true&langs_count=10&theme=dark"> -->
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=bcanfield&theme=dark&hide_border=true&hide_current_streak=true&hide_longest_streak=true" />
 </div>
