@@ -11,7 +11,4 @@ Senior software engineer · [Mile Two](https://www.miletwo.us/) · [brandincanfi
   <img alt="pac-man contribution graph" src="https://raw.githubusercontent.com/bcanfield/bcanfield/output/pacman-contribution-graph.svg">
 </picture>
 
-<!-- top languages, rendered in-repo by lowlighter/metrics (no external server) -->
-<img alt="top languages" src="languages.svg" />
-
 </div>
