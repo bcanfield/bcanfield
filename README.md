@@ -1,19 +1,29 @@
-<h1 align="center">Brandin Canfield</h1>
-
 <div align="center">
-<a href="https://www.brandincanfield.com/"/>brandincanfield.com<a/>
+
+# Brandin Canfield
+
+Senior software engineer · [Mile Two](https://www.miletwo.us/) · [brandincanfield.com](https://www.brandincanfield.com/)
+
+<!-- pac-man eating the contribution graph (regenerated daily) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bcanfield/bcanfield/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bcanfield/bcanfield/output/pacman-contribution-graph.svg">
+  <img alt="pac-man contribution graph" src="https://raw.githubusercontent.com/bcanfield/bcanfield/output/pacman-contribution-graph.svg">
+</picture>
+
+<!-- 3d isometric contribution calendar (regenerated daily) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg">
+  <img alt="3d contribution calendar" src="profile-3d-contrib/profile-green-animate.svg">
+</picture>
+
+<!-- top languages, transparent so it blends into both themes -->
+<img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcanfield&layout=compact&theme=transparent&hide_border=true" />
+
 </div>
 
-<div align="center">
-<img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+### Lately
 
-</div>
-<div align="center">
-<!--   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcanfield&layout=compact&hide_border=true&langs_count=10&theme=dark"> -->
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=bcanfield&theme=dark&hide_border=true&hide_current_streak=true&hide_longest_streak=true" />
-</div>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
