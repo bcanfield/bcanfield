@@ -11,7 +11,7 @@ Senior software engineer · [Mile Two](https://www.miletwo.us/) · [brandincanfi
   <img alt="pac-man contribution graph" src="https://raw.githubusercontent.com/bcanfield/bcanfield/output/pacman-contribution-graph.svg">
 </picture>
 
-<!-- top languages, transparent so it blends into both themes -->
-<img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bcanfield&layout=compact&theme=transparent&hide_border=true" />
+<!-- top languages, rendered in-repo by lowlighter/metrics (no external server) -->
+<img alt="top languages" src="languages.svg" />
 
 </div>
